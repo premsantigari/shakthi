@@ -3,5 +3,6 @@ class
     printf("hello world"); #hello INDIA
       {
         hi==dev1
+<<<<<<< HEAD
       }   #PAKISTAN
-   }
+  }
