@@ -1,7 +1,7 @@
-class hello
+class hello   #dev2
 {
-	public static void main();
+	public static void main();  #dev2
 	{
-	  println("hello");
+	  println("hello=dev2");
 	}
 }
