@@ -1,7 +1,7 @@
-class 
+class   #dev2 is HERO 
   {
-    printf("hello world");
+    printf("hello world"); #dev2
       {
         hi==dev2
       } 
-   }
+   }#dev2=hero
