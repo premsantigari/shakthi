@@ -1,12 +1,12 @@
-<<<<<<< HEAD
-class hello  #dev1
+<<<<<<< HEAD   #fhjhriferihfrih 
+class hello  #dev1 #vgfkyudfwytddfewkyu
 {
 	public static void main();  #dev1class
 =======
 class hello   #dev2
 {
 	public static void main();  #dev2
->>>>>>> b45687b0074537ef1efed32b89b94e02688a8d53
+>>>>>>> b45687b0074537ef1efed32b89b94e02688a8d53 #ghuycdouffborgcrwrbro
 	{
 	  println("hello=dev2");
 	}
