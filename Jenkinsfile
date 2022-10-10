@@ -2,7 +2,6 @@ pipeline{
 	agent any
 	tools {
 		maven 'MAVEN3.8.6'
-		jdk 'JDK8'
 	}
 	environment{
 		SNAPSHOT_REPO= 'prem-snapshot'
